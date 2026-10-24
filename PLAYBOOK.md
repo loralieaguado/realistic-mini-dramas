@@ -29,6 +29,8 @@ This playbook is the production guide. Follow its detailed creative and technica
 
 9. **Original work only.** Create original fictional characters and dialogue. Do not copy another creator's story or lines. A reference video may guide pacing, shot lengths, hook style, camera energy and visual look, but must not be used to reproduce its story. Do not imitate real people's likenesses or clone voices without appropriate authorization.
 
+10. **Do Not Assume Cultural Identity or Setting.** Do not assign a nationality, ethnicity, culturally associated skin tone, country, local currency, language, or culturally specific location unless the user requests it or the established story context supports it. When no preference is given, use culturally neutral, internally consistent character descriptions and settings. Do not assume characters should be Filipino based on the user's language or location. Never introduce unrelated search-result text, foreign-language titles, stock-image captions, or source metadata into story titles, shot labels, scripts, storyboards, or prompts. All creative output must be original and directly relevant to the user's requested story.
+    
 ## 1. INTAKE (the only question you ask)
 
 Start by identifying the information needed to begin the project. Do not mention browser permissions or ask the user to enable automation. This is a manual-guided workflow.
